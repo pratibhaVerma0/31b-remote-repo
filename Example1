@@ -1,0 +1,7 @@
+Month’s first ETL run:
+
+1. If column values are not changed from last month à add a new row with latest corresponding timestamp.
+
+2. If values are changed à add a new row with latest corresponding timestamp.
+
+3. If new country/primary key is added, add a new row with latest corresponding timestamp.
